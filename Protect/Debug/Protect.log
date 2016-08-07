@@ -1,0 +1,19 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  stdafx.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Protect.cpp
+f:\doc\逆向工程\testprogram\lordpe\protect\protect.cpp(99): warning C4309: “初始化”: 截断常量值
+f:\doc\逆向工程\testprogram\lordpe\protect\protect.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\protect\protect.cpp(332): warning C4018: “>”: 有符号/无符号不匹配
+  pe.cpp
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(96): warning C4309: “初始化”: 截断常量值
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(208): warning C4018: “>”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(254): warning C4018: “<”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(262): warning C4018: “>=”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(288): warning C4018: “>=”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(314): warning C4018: “>=”: 有符号/无符号不匹配
+f:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Protect.vcxproj -> F:\doc\逆向工程\TESTPROGRAM\LordPE\Debug\Protect.exe

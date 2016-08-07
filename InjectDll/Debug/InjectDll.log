@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  mydll.cpp
+  InjectDll.cpp
+  正在生成代码...
+dllmain.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+     正在创建库 F:\doc\逆向工程\TESTPROGRAM\Solution9\Debug\InjectDll.lib 和对象 F:\doc\逆向工程\TESTPROGRAM\Solution9\Debug\InjectDll.exp
+  InjectDll.vcxproj -> F:\doc\逆向工程\TESTPROGRAM\Solution9\Debug\InjectDll.dll

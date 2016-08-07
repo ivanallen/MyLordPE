@@ -1,0 +1,147 @@
+﻿生成启动时间为 2016/3/17 10:06:13。
+     1>项目“G:\doc\逆向工程\TESTPROGRAM\LordPE\LordPE\LordPE.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../PE /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\PE\pe.cpp Common.cpp LordPE.cpp uiDirectoryDialog.cpp uiInfoDialog.cpp uiInjectDialog.cpp uiMainDialog.cpp uiPEDialog.cpp uiSectionDialog.cpp uiShellDialog.cpp
+         uiShellDialog.cpp
+         uiSectionDialog.cpp
+         uiPEDialog.cpp
+         uiMainDialog.cpp
+         uiInjectDialog.cpp
+         uiInfoDialog.cpp
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(75): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(77): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(92): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(98): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(119): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(132): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(146): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(152): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(161): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(166): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(207): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(214): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(219): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(234): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(239): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(287): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(291): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(299): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(323): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(325): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(327): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(331): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinfodialog.cpp(333): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         uiDirectoryDialog.cpp
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uidirectorydialog.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+         LordPE.cpp
+         Common.cpp
+         pe.cpp
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(96): warning C4309: “初始化”: 截断常量值
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(136): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(208): warning C4018: “>”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(254): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(262): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(288): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(314): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(383): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(448): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(455): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(643): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\doc\逆向工程\testprogram\lordpe\pe\pe.cpp(650): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+         正在生成代码...
+     1>g:\doc\逆向工程\testprogram\lordpe\lordpe\uiinjectdialog.cpp(81): warning C4715: “GetCheckedRadioButton”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         D:\Program Files\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\LordPE.res" LordPE.rc 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\doc\逆向工程\TESTPROGRAM\LordPE\Debug\LordPE.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\doc\逆向工程\TESTPROGRAM\LordPE\Debug\LordPE.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /BASE:"0x00400000" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\doc\逆向工程\TESTPROGRAM\LordPE\Debug\LordPE.lib" /MACHINE:X86 /SAFESEH Debug\LordPE.res
+         Debug\pe.obj
+         Debug\Common.obj
+         Debug\LordPE.obj
+         Debug\uiDirectoryDialog.obj
+         Debug\uiInfoDialog.obj
+         Debug\uiInjectDialog.obj
+         Debug\uiMainDialog.obj
+         Debug\uiPEDialog.obj
+         Debug\uiSectionDialog.obj
+         Debug\uiShellDialog.obj
+     1>pe.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         LordPE.vcxproj -> G:\doc\逆向工程\TESTPROGRAM\LordPE\Debug\LordPE.exe
+     1>已完成生成项目“G:\doc\逆向工程\TESTPROGRAM\LordPE\LordPE\LordPE.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.94
